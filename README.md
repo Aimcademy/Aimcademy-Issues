@@ -12,4 +12,4 @@
 
 ---
 
-Isn't a good gaming session the best way to unwind? Join our [Discord](http://discord.aimcademy.gg) and connect with like-minded people.
+<p align="center">Isn't a good gaming session the best way to unwind? Join our <a href="http://discord.aimcademy.gg">Discord</a> and connect with like-minded people.</p>
