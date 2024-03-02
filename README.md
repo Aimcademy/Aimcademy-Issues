@@ -2,7 +2,7 @@
 
 <h1 align="center">Aimcademy - Issue Tracker</h1>
 
-<p align="center">The best place to report bugs for Aimcademy!</p>
+<p align="center">The best place to <a href="https://github.com/Aimcademy/Aimcademy-Issues/issues/new/choose">report bugs</a> or <a href="https://github.com/Aimcademy/Aimcademy-Issues/issues/new/choose">suggest a feature</a> for Aimcademy!</p>
 
 <br>
 <div align="center">
