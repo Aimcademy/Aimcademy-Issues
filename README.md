@@ -12,5 +12,4 @@
 
 ---
 
-<br>
-Want to directly chat with the developers? Join our [Discord](http://discord.aimcademy.gg)
+Isn't a good gaming session the best way to unwind? Join our [Discord](http://discord.aimcademy.gg) and connect with like-minded people.
