@@ -1,6 +1,6 @@
 <p align="center"><a href="https://store.steampowered.com/app/2646660/Aimcademy/"><img src="/.github/assets/logo.svg" width="300"/></a></p>
 
-<h1 align="center">Aimcademy Issue Tracker</h1>
+<h1 align="center">Aimcademy - Issue Tracker</h1>
 
 <p align="center">The best place to report bugs for Aimcademy!</p>
 
