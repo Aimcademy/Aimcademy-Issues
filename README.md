@@ -6,10 +6,10 @@
 
 <br>
 <div align="center">
-<a href="http://discord.aimcademy.gg"><img alt="Discord" src="https://img.shields.io/discord/1210511578722607114?label=Discord&color=%235865F2"></a>
+<a href="https://discord.aimcademy.gg"><img alt="Discord" src="https://img.shields.io/discord/1210511578722607114?label=Discord&color=%235865F2"></a>
 </div>
 <br>
 
 ---
 
-<p align="center">Isn't a good gaming session the best way to unwind? Join our <a href="http://discord.aimcademy.gg">Discord</a> and connect with like-minded people.</p>
+<p align="center">Isn't a good gaming session the best way to unwind? Join our <a href="https://discord.aimcademy.gg">Discord</a> and connect with like-minded people.</p>
