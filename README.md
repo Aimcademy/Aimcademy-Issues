@@ -6,7 +6,7 @@
 
 <br>
 <div align="center">
-<a href="https://discord.aimcademy.gg"><img alt="Discord" src="https://img.shields.io/discord/1210511578722607114?label=Discord&color=%235865F2"></a>
+<a href="https://discord.aimcademy.gg"><img alt="Discord" src="https://dcbadge.limes.pink/api/server/https://discord.com/invite/YAh4br7hkh"></a>
 </div>
 <br>
 
