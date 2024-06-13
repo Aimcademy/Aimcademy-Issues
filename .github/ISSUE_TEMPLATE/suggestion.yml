@@ -1,6 +1,6 @@
 name: 🌱 Suggestion
 description: Suggest an idea
-labels: ["suggestion", "triage"]
+labels: ["suggestion", ":mag_right: triage"]
 body:
 - type: textarea
   attributes:
